@@ -51,9 +51,6 @@ Deploying - ng build --prod
 
 
 
-Preparing for the exam.
-TEST
-
 
 * * *
 
@@ -64,6 +61,43 @@ TEST
 Real life project
 
 
+
+
+* * *
+
+
+Learning Resources:
+
+Google search and learn:
+
+	Single Page Applications
+	What is NodeJS?
+	What is NPM?
+	Installing dependencies with NPM.
+	Understanding package.json
+	Writing a JSON object.
+	Advantages of Typescript
+	REST APIs
+
+
+Refer Angular.io/docs
+
+	Getting Started
+	Fundementals > Architecture
+		Modules, Components (Decorator structure), 
+		Data Binding Types, Directives (built-in eg), 
+		Pipes (built-in eg),Services
+	Fundamentals > Routing
+	Fundementals > HttpCLient, Observables
+	Rest of fundementals (optional)
+	Tutorial (optional)
+	Installing Angular CLI
+	Learn Angular CLI commands
+		serve, generate component, build
+	What is Webpack (during ng build)
+
+	
+	
 
 
 
