@@ -45,12 +45,36 @@ Pipes - transform the data
 
 * * * 
 Services
-Using AngularHttp
 Using Routing
-Deploying
+Using AngularHttp
+Deploying - ng build --prod
+
+
+
 Preparing for the exam.
+TEST
+
 
 * * *
+
+
+
+
+
+Real life project
+
+
+
+
+
+
+
+
+* * * 
+
+abishek@logbase.io
+
+@cyberabis
 
 
 
