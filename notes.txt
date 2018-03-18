@@ -96,6 +96,8 @@ Refer Angular.io/docs
 		serve, generate component, build
 	What is Webpack (during ng build)
 
+Go through the Marks Form App we created
+
 	
 	
 
