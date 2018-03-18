@@ -1,0 +1,66 @@
+Simple website (HTML, JS, CSS)
+
+Web applications vs Websites
+
+Single page Apps
+
+Angular intro
+
+Basic Javascript with NodeJS
+
+***
+
+JS Data Types, JSON, importance in REST API
+
+NPM Project - npm init, package.json
+
+Adding dependencies, node_modules, package.json update
+
+Typescript benefits, instlallation, transpilation
+
+Creating an Angular Project, angular CLI, saving to github
+
+* * *
+
+
+Angular concepts
+- Module
+- Component - Data & Logic, Template, Metadata, Optional CSS
+- Data Binding - Interpolation, Property, Event, 2-way
+- Directives
+- Pipes
+
+Directives
+
+Structural - *ngIf, *ngFor
+
+Attribute - ngClass, ngModel
+
+
+
+
+Pipes - transform the data 
+		eg: Formatting date
+		Sorting an array
+
+* * * 
+Services
+Using AngularHttp
+Using Routing
+Deploying
+Preparing for the exam.
+
+* * *
+
+
+
+
+
+
+
+
+
+
+
+
+

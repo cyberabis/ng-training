@@ -1,0 +1,42 @@
+<p>This form is for <a routerLink="/user">{{userService.userName}}</a></p>
+
+<input type="text" placeholder="Enter username"
+   [(ngModel)]="newUserName" />
+<br/>
+<br/>
+
+<label>
+  Mark 1
+</label>
+<input type="number" [(ngModel)]="m1" />
+
+<br/>
+
+<label>
+  Mark 2
+</label>
+<input type="number" [(ngModel)]="m2" />
+
+<br/>
+
+<label>
+  Mark 3
+</label>
+<input type="number" [(ngModel)]="m3" />
+
+<br/>
+
+<button (click)="sum()">Calculate Total</button>
+
+<div *ngIf="result">
+  The result is {{result}}
+</div>
+
+<p>Result types</p>
+<div *ngFor="let type of typesOfResult">
+  {{type | lowercase}}
+</div>
+
+
+<p>Today is {{ currentDate }} </p>
+<p>Today is {{ currentDate | date:"MM/dd/yy" }} </p>
